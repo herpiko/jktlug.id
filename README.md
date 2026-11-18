@@ -6,6 +6,8 @@ It is a static site generated with [Hakyll] and deployed on a k3s node on a VPS.
 
 This repository was originally forked from the [Tokyo Linux Users Group](tlug.jp) website and is being migrated for Jakarta/Indonesia use.
 
+Current design: https://design.penpot.app/?screen=viewer&file-id=42288968-6e5e-808d-8008-f70b0efa03cb&page-id=a9dfceca-5c35-8041-8008-a5e42ed328a2&section=interactions&index=0&share-id=4be159f9-a5ea-4fba-8d00-22888890a17b
+
 ## Building
 
 The top-level `Test` script does a build, test, and optional release:
